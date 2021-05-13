@@ -100,7 +100,6 @@
     <framework src="SystemConfiguration.framework" weak="true" />
     <framework src="libz.tbd" weak="true" />
     <framework src="libz.dylib" weak="true" />
-    <framework src="GoogleSignIn" spec="~> 5.0.2" type="podspec" embed="true" />
 
     <!-- Google frameworks -->
     <!-- <podspec>
